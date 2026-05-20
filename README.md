@@ -308,7 +308,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 **Yathin**
 - GitHub: [@yathin07](https://github.com/yathin07)
 
-**Live Link:** [https://github.com/shivaa-palaniyappan/CareerBridge](https://careerbridge-tau.vercel.app/)
+**Live Link:** [CareerBridge](https://careerbridge-tau.vercel.app/)
 
 ---
 

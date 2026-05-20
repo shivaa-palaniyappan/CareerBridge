@@ -15,28 +15,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-  - [Running the App](#running-the-app)
-- [Usage](#-usage)
-- [API Documentation](#-api-documentation)
-- [Contributing](#-contributing)
-- [Collaborators](#-collaborators)
-- [How to Add a Collaborator](#-how-to-add-a-collaborator)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ## 🚀 About the Project
 
 **CareerBridge** is designed to solve the fragmented experience of job hunting and recruitment. Whether you're a student seeking internships, a professional exploring opportunities, or a recruiter looking for top talent — CareerBridge provides a unified, intuitive platform for all things career-related.
@@ -302,36 +280,6 @@ Use the following prefixes for clean commit history:
 
 ---
 
-## ➕ How to Add a Collaborator
-
-To add **[@yathin07](https://github.com/yathin07)** (or any collaborator) to this repository:
-
-1. Go to your repository on GitHub:
-   `https://github.com/shivaa-palaniyappan/CareerBridge`
-
-2. Click on **Settings** (top-right of the repo tabs)
-
-3. In the left sidebar, click **Collaborators** (under *Access*)
-
-4. Click **Add people**
-
-5. Search for `yathin07` and select the user
-
-6. Choose a role:
-   - **Read** — View only
-   - **Triage** — Manage issues/PRs, no write access
-   - **Write** — Push code and manage issues ✅ *(recommended for developers)*
-   - **Maintain** — Manage releases, no admin access
-   - **Admin** — Full access
-
-7. Click **Add yathin07 to this repository**
-
-8. **yathin07** will receive an email invitation — they must **accept it** to gain access.
-
-> **Note:** You must be the repository **Owner** or have **Admin** access to add collaborators.
-
----
-
 ## 🗺️ Roadmap
 
 - [x] User authentication (JWT)
@@ -360,7 +308,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 **Yathin**
 - GitHub: [@yathin07](https://github.com/yathin07)
 
-**Project Link:** [https://github.com/shivaa-palaniyappan/CareerBridge](https://github.com/shivaa-palaniyappan/CareerBridge)
+**Live Link:** [https://github.com/shivaa-palaniyappan/CareerBridge](https://careerbridge-tau.vercel.app/)
 
 ---
 
